@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm Tharun   <br>🔒 Cybersecurity Enthusiast | SOC Analyst in Training  <br>🎓 Currently studying [Your Degree]  <br>🛡️ Exploring threat detection, incident response, and log analysis.  <br>🌱 Learning Python, SIEM tools, and cybersecurity frameworks.  <br>💻 Passionate about securing systems and solving CTF challenges.<br>
+Hi, I’m Tharun  <br>
+📊💻🎨 Data Analyst | Software Engineer | UI/UX Enthusiast  <br>
+🎓  <br>
+📈 Exploring data analysis, system design, and user-centered interfaces.  <br>
+🌱 Working with SQL, Python, dashboards, scalable systems, and design tools.  <br>
+🚀 Passionate about building data-driven, user-focused, and reliable digital products.<br>
+
 
 
 ## 🌐 Socials:
