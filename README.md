@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I’m Tharun  <br>
-📊💻🎨 Data Analyst | Software Engineer | UI/UX Enthusiast  <br>
+📊💻🎨 Data Analyst | Software Engineer |   <br>
 🎓  <br>
 📈 Exploring data analysis, system design, and user-centered interfaces.  <br>
 🌱 Working with SQL, Python, dashboards, scalable systems, and design tools.  <br>
