@@ -40,24 +40,45 @@ I am a Software Engineer and Data Analyst deeply invested in the world of **Mach
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MLOps](https://img.shields.io/badge/MLOps-%23FF6F00.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 ---
+## 📈 Featured Projects:
+
+### 🖼️ Multimodal Embedding Search Engine
+> **AI/ML + Vector Search** > Developed a semantic search engine using **CLIP** and **FAISS** to enable cross-modal retrieval (Text-to-Image / Image-to-Image). Optimized for low-latency similarity searches in high-dimensional vector spaces.
+> 
+> `PyTorch` `CLIP` `FAISS` `Python`
+
+### 🔬 High-Performance Histopathological CNN
+> **Computer Vision + Oncology** > Engineered a custom CNN architecture for classifying lung and colon cancer histopathological images. Focused on precision-recall optimization and model interpretability for medical AI applications.
+> 
+> `Computer Vision` `Deep Learning` `TensorFlow/Keras` `OpenCV`
+
+### 🚦 Distributed API Rate Limiter (Containerized)
+> **System Design + MLOps** > Built a scalable, distributed rate-limiting service using a **Token Bucket algorithm**. Implemented with **Go** and **Redis** for state management, fully containerized for seamless deployment in microservice clusters.
+> 
+> `Go` `Redis` `Docker` `System Design`
+
 
 ## 📈 Recent Projects:
 | Project | Focus | Tech Stack |
 | :--- | :--- | :--- |
-
+| **Multimodal Embedding Search Engine** | Vector Search / AI | CLIP, FAISS, PyTorch |
+| **Lung & Colon Cancer Analysis** | Deep Learning / Medical AI | CNN, Python |
 
 
 ---
 
 ## 🌐 Connect with Me:
+<!--
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Broly_Das)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+-->
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tharunr8533@gmail.com)
 
 ---
 
 ### ⚡ Fun Fact:
-When I'm not training models or debugging systems, you might find me tapping into my inner Broly—unleashing maximum power into my code!
+When I'm not training models or debugging systems, you might find me tapping into my inner SAIYAN —unleashing maximum power into my code!
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tharunr0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tharunr0&theme=dark&hide_border=false)<br/>
